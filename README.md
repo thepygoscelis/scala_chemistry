@@ -1,6 +1,6 @@
 #Scala Chemistry
 This project is designed in order to facilitate solving chemistry problems.
-I've written in a popular language that is functional. 
+I've written it in a popular language that is functional. 
 The Scala Langugage is used by companies such as Twitter. 
 ---
 #Features
